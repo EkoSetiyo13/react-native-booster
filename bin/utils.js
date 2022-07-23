@@ -1,6 +1,6 @@
 const chalk = require("chalk");
 const usage = chalk.hex("#83aaff")(
-  "\nUsage: tran <lang_name> sentence to be translated"
+  "\nUsage: rnboost <lang_name> sentence to be translated"
 );
 module.exports = {
   parseLanguage: parseLanguage,
